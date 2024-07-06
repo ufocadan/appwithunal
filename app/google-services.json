@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978001037463",
+    "project_id": "aiimagevalidator",
+    "storage_bucket": "aiimagevalidator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978001037463:android:fba56dafea65d85aed41d2",
+        "android_client_info": {
+          "package_name": "com.unalfocadan.appwithunal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOt50BD5LqjvHdidxSZeRZ3RkxurhMdLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

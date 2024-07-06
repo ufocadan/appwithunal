@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appwithunal</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="login_button">Log In</string>
+</resources>
